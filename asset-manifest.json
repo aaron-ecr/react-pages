@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/react-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-pages/static/js/main.0c4c38c6.js",
-    "static/js/787.c2651732.chunk.js": "/react-pages/static/js/787.c2651732.chunk.js",
-    "static/media/logo.svg": "/react-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-pages/static/css/main.86a1874c.chunk.css",
+    "main.js": "/react-pages/static/js/main.3eca81e1.chunk.js",
+    "main.js.map": "/react-pages/static/js/main.3eca81e1.chunk.js.map",
+    "runtime~main.js": "/react-pages/static/js/runtime~main.2afdb07a.js",
+    "runtime~main.js.map": "/react-pages/static/js/runtime~main.2afdb07a.js.map",
+    "static/css/2.dad981ca.chunk.css": "/react-pages/static/css/2.dad981ca.chunk.css",
+    "static/js/2.90480be3.chunk.js": "/react-pages/static/js/2.90480be3.chunk.js",
+    "static/js/2.90480be3.chunk.js.map": "/react-pages/static/js/2.90480be3.chunk.js.map",
     "index.html": "/react-pages/index.html",
-    "main.073c9b0a.css.map": "/react-pages/static/css/main.073c9b0a.css.map",
-    "main.0c4c38c6.js.map": "/react-pages/static/js/main.0c4c38c6.js.map",
-    "787.c2651732.chunk.js.map": "/react-pages/static/js/787.c2651732.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0c4c38c6.js"
-  ]
+    "precache-manifest.5727dc6592c2d65387d9bbe769ed4cfd.js": "/react-pages/precache-manifest.5727dc6592c2d65387d9bbe769ed4cfd.js",
+    "service-worker.js": "/react-pages/service-worker.js",
+    "static/css/2.dad981ca.chunk.css.map": "/react-pages/static/css/2.dad981ca.chunk.css.map",
+    "static/css/main.86a1874c.chunk.css.map": "/react-pages/static/css/main.86a1874c.chunk.css.map",
+    "static/media/404.svg": "/react-pages/static/media/404.a79151a5.svg",
+    "static/media/App.css": "/react-pages/static/media/airline3.d58eac18.jpg",
+    "static/media/astronaut.svg": "/react-pages/static/media/astronaut.8bad1bca.svg",
+    "static/media/carrito2.png": "/react-pages/static/media/carrito2.ac33bef7.png",
+    "static/media/earth.svg": "/react-pages/static/media/earth.81ccb8ef.svg",
+    "static/media/logo.svg": "/react-pages/static/media/logo.ee7cd8ed.svg",
+    "static/media/modalConfirm3.png": "/react-pages/static/media/modalConfirm3.6a07188b.png",
+    "static/media/moon.svg": "/react-pages/static/media/moon.fcf33db6.svg",
+    "static/media/multiflight.png": "/react-pages/static/media/multiflight.137f47fb.png",
+    "static/media/nonstop.png": "/react-pages/static/media/nonstop.215e612c.png",
+    "static/media/rocket.svg": "/react-pages/static/media/rocket.4d329bba.svg",
+    "static/media/shopping-cart.png": "/react-pages/static/media/shopping-cart.0088ecaa.png",
+    "static/media/world_airlines.png": "/react-pages/static/media/world_airlines.433b51aa.png"
+  }
 }
